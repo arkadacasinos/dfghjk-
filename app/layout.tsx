@@ -128,6 +128,7 @@ export default function RootLayout({
         <meta name="author" content="La Casino" />
         <meta name="language" content="ru" />
         <meta httpEquiv="content-language" content="ru" />
+        <meta name="yandex-verification" content="b5408941af5affa4" />
         <link rel="author" href={siteUrl} />
         <script
           type="application/ld+json"
